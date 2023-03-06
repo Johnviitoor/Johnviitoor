@@ -27,7 +27,7 @@
         <!-- Activity Widget -->
         <img alt="João Vitor Ferreira GitHub Stats"
         <img alt="João Vitor's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+                src="https://github-readme-stats.vercel.app/api?username=Johnviitoor&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p></p>
