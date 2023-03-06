@@ -24,11 +24,6 @@
     <summary> <samp>&#9776;</samp></summary>
     <p align="center">
         <br>
-        <!-- Activity Widget -->
-        <img alt="João Vitor Ferreira GitHub Stats"
-        <img alt="João Vitor's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=Johnviitoor&show_icons=true&theme=radical" />
-        <br>
         <!-- Social Links -->
         <p></p>
         <!-- Gmail -->
