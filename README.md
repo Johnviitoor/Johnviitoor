@@ -9,21 +9,8 @@
         </samp>
 </h3>
 <br>
-<p align="center">
-        <!-- Organisation  -->
-        <samp>
-                「  "A arte de programar consiste em organizar e dominar a complexidade" 」
-                <br>
-                「 Programção , Web , WebDesign , Prototipação , Edição videos/imagens , Modelagem/Renderização , Maquete 3d/Projetos 」
-                <br>
-                <br>
-        </samp>
-        <!-- Programming Languages -->
-        <!-- Code logo -->
-        <a 
-        </a>
-        <!-- HTML --> 
-                
+<br>
+
 <!-- Social Links -->
 <p align="center">
     <!-- Gmail -->
@@ -47,25 +34,42 @@
         <img alt="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
     </a>
 </p>
-
+<br>
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「  "A arte de programar consiste em organizar e dominar a complexidade" 」
+                <br>
+                「 Programção , Web , WebDesign , Prototipação , Edição videos/imagens , Modelagem/Renderização , Maquete 3d/Projetos 」
+                <br>
+                <br>
+        </samp>
+        <!-- Programming Languages -->
+        <!-- Code logo -->
+        <a 
+        </a>
+        <!-- HTML --> 
+                
 <!-- Footer -->
 <samp>
     <p align="center">
-     💻🎧💪🏋️‍♀️⚽🎮📖🍵
     </p>
 </samp>
-<hr></hr>
+
 <!-- Pinned Repositories -->
 
 
 <div align="center" width="50">
+        
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eyjv7dgjpnfrogwkk72eayhrku&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+
+<br>
+<hr>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Johnviitoor" alt="CoDiNg RocKs"  width="60%"/><br> 
       
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eyjv7dgjpnfrogwkk72eayhrku&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
         
@@ -81,9 +85,7 @@
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
