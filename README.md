@@ -42,13 +42,10 @@
     </a>
 </p>
 
-<br>
 <!-- Footer -->
 <samp>
     <p align="center">
-        ═════════════════
-        <br>
-        Boa Programação 💻
+     💻🎧💪🏋️‍♀️⚽🎮📖🍵
     </p>
 </samp>
 <!-- Pinned Repositories -->
