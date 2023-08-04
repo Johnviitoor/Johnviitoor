@@ -1,7 +1,11 @@
+<img width=100% src="http://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=>+HELLO+WORLD+<;MY+NAME+IS+JOÃO+VITOR;I'm+20+years+old;I+from+Brazil;I+Graduated+systems+Development-Be+Welcome!)](https://git.io/typing-svg)
+
 <hr></hr>
 <h3 align="center">
         <samp>&gt;
-                <b>HELLO WORLD <</a></b>
+                <b>Redes Sociais <</a></b>
         </samp>
 </h3>
 <br>
