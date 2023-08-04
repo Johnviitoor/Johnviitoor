@@ -65,7 +65,7 @@
       
 
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31eyjv7dgjpnfrogwkk72eayhrku?si=3ca0265fd5fd4018)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eyjv7dgjpnfrogwkk72eayhrku&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
         
