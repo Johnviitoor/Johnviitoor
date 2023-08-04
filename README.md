@@ -63,7 +63,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Johnviitoor" alt="CoDiNg RocKs"  width="60%"/><br> 
       
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31eyjv7dgjpnfrogwkk72eayhrku) <br>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31eyjv7dgjpnfrogwkk72eayhrku?si=3ca0265fd5fd4018)
+<br>
 
         
 <br>
