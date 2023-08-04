@@ -1,3 +1,4 @@
+<hr></hr>
 <h3 align="center">
         <samp>&gt;
                 <b>HELLO WORLD <</a></b>
@@ -18,6 +19,7 @@
         <a 
         </a>
         <!-- HTML --> 
+                
 <!-- Social Links -->
 <p align="center">
     <!-- Gmail -->
@@ -48,6 +50,7 @@
      💻🎧💪🏋️‍♀️⚽🎮📖🍵
     </p>
 </samp>
+<hr></hr>
 <!-- Pinned Repositories -->
 
 
@@ -58,21 +61,11 @@
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Johnviitoor" alt="CoDiNg RocKs"  width="60%"/><br> 
-  
-       
-        
-      𝔹𝕣𝕒𝕤𝕚𝕝      
-
-
-        
-<p> 🎧💻  </strong></p>
+      
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31eyjv7dgjpnfrogwkk72eayhrku) <br>
 
         
-        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-
-</div>
 
 <hr></hr>
 
@@ -101,7 +94,7 @@
 <a  href="https://github.com/Johnviitoor">
 
  ![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnviitoor&show_icons=true&theme=default)
-   
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnviitoor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
