@@ -66,7 +66,7 @@
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31eyjv7dgjpnfrogwkk72eayhrku) <br>
 
         
-
+<br>
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
@@ -88,19 +88,17 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-
-
+<br>
 <div align="center" >
 <a  href="https://github.com/Johnviitoor">
 
  ![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnviitoor&show_icons=true&theme=default)
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnviitoor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
 <hr></hr>
-
+<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 
