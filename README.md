@@ -14,7 +14,7 @@
 <!-- Social Links -->
 <p align="center">
     <!-- Gmail -->
-    <a href="mailto:engjoaoviitoor@gmail.com" target="_blank">
+    <a href="mailto:engjoaovitor@hotmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
     </a>
     <!-- Facebook -->
